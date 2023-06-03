@@ -1,0 +1,12 @@
+.credits {
+    font-family: system-ui;
+    background: #212429;
+    font-size: 11px;
+    color: white;
+    padding: 0.5rem 0;
+    text-align: center;
+  }
+  .credits a {
+    color: #f865b0;
+    text-decoration: none;
+  }
